@@ -6,6 +6,7 @@
 * [数据图表](#数据图表)
 * [任务时间](#任务时间)
 * [信息整理](#信息整理)
+* [文件查找](#文字查找)
 * [分享同步](#分享同步)
 * [浏览器扩展](#浏览器扩展)
 
@@ -23,7 +24,7 @@
 * [Simplenote](https://simplenote.com/)
 * [Evernote](https://evernote.com/intl/zh-cn)
 * [有道云笔记](https://note.youdao.com/)
-* [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/)
+* [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/) `windows`
 
 ## 数据图表
 * [ProcessOn](https://processon.com)
@@ -36,6 +37,10 @@
 ## 信息整理
 * [Pocket](https://getpocket.com/) - Pocket是一个用于管理互联网文章的应用程序及服务
 * [方片收集](https://funp.in/)
+
+## 文件查找
+* [Listary](http://www.listary.com/) `windows`
+* [Everything](http://www.voidtools.com/) `windows`
 
 ## 分享同步
 * [百度网盘](https://pan.baidu.com/)
