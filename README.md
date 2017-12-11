@@ -7,7 +7,7 @@
 * [任务时间](#任务时间)
 * [信息整理](#信息整理)
 * [分享同步](#分享同步)
-
+* [浏览器扩展](#浏览器扩展)
 
 ## 开发编程
 * [Sublime Text](https://www.sublimetext.com/)
@@ -29,8 +29,11 @@
 * [滴答清单](https://www.dida365.com/)
 
 ## 信息整理
+* [Pocket](https://getpocket.com/) - Pocket是一个用于管理互联网文章的应用程序及服务
 * [方片收集](https://funp.in/)
-* [Pocket](https://getpocket.com/)：Pocket是一个用于管理互联网文章的应用程序及服务
 
 ## 分享同步
 * [百度网盘](https://pan.baidu.com/)
+
+## 浏览器扩展
+* [百度广告屏蔽](https://github.com/unclehking/bdAdfinisher)
