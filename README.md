@@ -38,6 +38,7 @@
 
 ## 分享同步
 * [百度网盘](https://pan.baidu.com/)
+* [Dropbox](https://www.dropbox.com/)
 
 ## 浏览器扩展
 * [百度广告屏蔽](https://github.com/unclehking/bdAdfinisher)
