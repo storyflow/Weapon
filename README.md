@@ -13,6 +13,7 @@
 * [Sublime Text](https://www.sublimetext.com/)
 * [PhpStorm](https://www.jetbrains.com/phpstorm/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Notepad++](https://notepad-plus-plus.org/)
 
 ## 产品工具
 * [墨刀](https://modao.cc/) - 强大易用的原型设计与协同工具
