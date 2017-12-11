@@ -19,6 +19,7 @@
 * [Simplenote](https://simplenote.com/)
 * [Evernote](https://evernote.com/intl/zh-cn)
 * [有道云笔记](https://note.youdao.com/)
+* [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/)
 
 ## 数据图表
 * [ProcessOn](https://processon.com)
